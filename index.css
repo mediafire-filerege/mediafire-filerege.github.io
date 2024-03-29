@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+  
+    /* font sizes */
+    --font-size-3xs: 10px;
+    --font-size-xs: 12px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-cornflowerblue: #4cacff;
+    --color-gainsboro: rgba(217, 217, 217, 0.5);
+    --color-black: #000;
+    --color-royalblue: #0070f0;
+  
+    /* Gaps */
+    --gap-6xs: 7px;
+    --gap-xl: 20px;
+  
+    /* Paddings */
+    --padding-2xs: 11px;
+    --padding-4xs: 9px;
+    --padding-8xs: 5px;
+    --padding-12xs: 1px;
+    --padding-mini: 15px;
+  }
+  
